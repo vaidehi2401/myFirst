@@ -1,3 +1,3 @@
 # myFirst
 This is my first git repository
-Author-Vaidehi Dhole
+Author-Vaidehi Dhole(Kharode)
